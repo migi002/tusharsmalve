@@ -13,16 +13,16 @@ $(document).ready(function() {
       desc: "Uss time the only thing I needed was you yedi, mujhe samjhate. Agar ek baar mai nahi suna toh phir se, I want you to keep trying and never give up on me PLEASE!!!! But aapne jane diya. Aur please ye mat darna ki aur jyada hoga, I respect you a lot aur mujhe ye pata hai ki mai aapke saath kabhi bhi disrespectful nahi ho sakta. So don't worry ki jyada ho jata. "
     },{
       title: "My Love",
-      desc: "Mai aapko Deviji kehta hu toh I mean it, you are like a devi to me. Aur ye devi meri mai isliye haaq jatata hu, gussa ya naraz ho sakta hu thode time ke liye(5-6 min) but disrespectful kabhi nahi. So have trust in me. I know I know I am more mature toh mai thoda jyada aur jaldi samajh jaunga, chalo aapke silent mode ko bhi manage kar lunga......bss khush"
+      desc: "Mai aapko Deviji kehta hu toh I mean it, you are like a devi to me. Aur ye devi meri hai isliye haaq jatata hu, gussa ya naraz ho sakta hu thode time ke liye(5-6 min) but disrespectful kabhi nahi. So have trust in me. I know I know I am more mature aur bada bhi hu 5 din se, toh mai thoda jyada aur jaldi samajh jaunga, chalo aapke silent mode ko bhi manage kar lunga......bss khush"
     },{
       title: "So my Waffle",
       desc: "Sach kahu toh mujhe gussa toh aaya tha but ye gussa aapse jyada important nahi. For me you are most important and I value you the most. But aaise karoge toh thoda gussa toh karunga....jyada nahi thoda. Aur sorry ki jagah LOVE YOU kehte call karke mera bacha 2 baar kehte mera gussa pura chala jata pagal meri."
     },{
       title: "TO-DO list",
-      desc: "I know ki dard hai aapko toh 1. Paani bottle yaad se carry karna aur paani pete rehna,  2. Koi bhi dard hua sidha call karna I know thoda difficult task hai but try karna ho jayega,  3. Breakfast jyada karna appetite se ek jyada,  4. Time mila toh mujhe yaad karna!!!! "
+      desc: "I know ki dard hai aapko toh 1. Paani bottle yaad se carry karna aur paani pete rehna,  2. Koi bhi dard hua sidha call karna I know thoda difficult task hai but try karna ho jayega,  3. Breakfast jyada karna appetite se ek jyada, 4. Kya hua tha batana room mai  5. Time mila toh mujhe yaad karna!!!! "
     },{
       title: "I LOVE YOU",
-      desc: "my love, meri yedi, my waffle, my JAAN, my honey, my sunshine, my everything....."
+      desc: "my love, meri yedi, my sweetheart, my tigress, my waffle, my JAAN, my honey, my sunshine, my everything....."
     },{ 
       title: "SURPRISE FOR YOU AT EVENING YA NIGHT",
       desc: 
